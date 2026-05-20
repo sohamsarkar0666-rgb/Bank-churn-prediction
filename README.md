@@ -46,7 +46,7 @@ jupyter notebook Bank_churn_prediction.ipynb
 ```
 bank-churn-prediction/
 ├── Bank_churn_prediction.ipynb   # Main notebook
-├── dataset.csv                    # Dataset (if included)
+├── dataset.csv                    # Dataset
 └── README.md
 ```
 
